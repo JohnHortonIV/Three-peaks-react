@@ -1,0 +1,34 @@
+.ui.borderless.topmenu.menu {
+  background-color: black;
+  box-shadow: none;
+  border:none;
+  padding: 50px;
+  margin: 0px;
+  color: white;
+
+
+}
+
+.murphys-background {
+  background: url(http://courses.ics.hawaii.edu/ics314s20/morea/ui-frameworks/wod-three-peaks-image.png) no-repeat center center fixed;
+  background-size: cover;
+  height: 600px;
+  box-shadow: none;
+  border: none;
+  color: black;
+  padding-top: 10%;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 125%;
+}
+
+.footer-background {
+  background-color: black;
+  box-shadow: none;
+  border:none;
+  color: white;
+}
+
+.text {
+  color: white;
+}
